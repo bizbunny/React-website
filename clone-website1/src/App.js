@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import ImgSlider from "./slider/slider";
+import ImgSlider from "./components/slider/slider";
 import fullDrawing from "./static/images/HadesFanartSigned2_1.png"
 import { Container, Typography, Grid, Button } from "@material-ui/core";
 

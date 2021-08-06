@@ -8,11 +8,11 @@ import ChevronLeftIcon from "@material-ui/icons/ChevronLeft";
 import SlickButtonFix from "./SlickButtonFix";
 import IconButton from "@material-ui/core/IconButton";
 
-import sketch1 from "../static/images/Achilles.jpg";
-import sketch2 from "../static/images/Artemis.jpg";
-import sketch3 from "../static/images/Eurydice.jpg";
-import sketch4 from "../static/images/Zag and Duca.jpg";
-import sketch5 from "../static/images/Aphrodite.jpg";
+import sketch1 from "../../static/images/Achilles.jpg";
+import sketch2 from "../../static/images/Artemis.jpg";
+import sketch3 from "../../static/images/Eurydice.jpg";
+import sketch4 from "../../static/images/Zag and Duca.jpg";
+import sketch5 from "../../static/images/Aphrodite.jpg";
 
 export default class Responsive extends Component {
   constructor(props) {
